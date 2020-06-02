@@ -1,3 +1,4 @@
+//Contains a flatlist of modals. Each item in the flatList is a recipeName, onShortPress ingredients appear, onLongPress option to delete recipe
 /* eslint-disable prettier/prettier */
 import React, {Component} from 'react';
 import { View, StyleSheet, FlatList, Alert } from 'react-native';

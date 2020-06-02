@@ -1,3 +1,4 @@
+//contains state of addRecipeScreen, component used in addRecipeScreen
 /* eslint-disable prettier/prettier */
 import React, { Component } from 'react';
 import { View, StyleSheet, TextInput, Button } from 'react-native';

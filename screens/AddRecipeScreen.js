@@ -1,3 +1,4 @@
+//navigated to from welcomeScreen, allows user to input recipeName and ingredients
 /* eslint-disable prettier/prettier */
 import 'react-native-gesture-handler';
 import React, {Component} from 'react';

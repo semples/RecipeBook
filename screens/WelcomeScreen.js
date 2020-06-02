@@ -1,5 +1,5 @@
+//first screen visible on app, allows user to navigate to viewRecipesSreen and addRecipeScreen
 /* eslint-disable prettier/prettier */
-//import React from 'react';
 import { View, Text, StyleSheet, Button} from 'react-native';
 import React, { Component } from 'react';
 

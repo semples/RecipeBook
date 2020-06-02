@@ -1,3 +1,4 @@
+//file contains initial  state, reducer, store, and stack navigaator for app
 /* eslint-disable prettier/prettier */
 import 'react-native-gesture-handler';
 import { NavigationContainer } from '@react-navigation/native';
@@ -20,6 +21,7 @@ const initialState = {
     ingredients: [],
 };
 
+//reducer to update state of app
 
 const reducer = (state = initialState, action) => {
     switch (action.type) {

@@ -1,3 +1,4 @@
+//component that is shown on the viewRecipeScreen, contains recipe name and its ingredients
 /* eslint-disable prettier/prettier */
 import React, {useState} from 'react';
 import { View, Text, StyleSheet, Modal, TouchableHighlight, FlatList } from 'react-native';

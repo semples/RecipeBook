@@ -1,3 +1,4 @@
+//component shown when an ingredient is added to a recipe on the addRecipeScreen
 /* eslint-disable prettier/prettier */
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
