@@ -1,2 +1,2 @@
 # RecipeBook
-#Recipe book mobile application created with React Native and Redux
+Mobile Application to store recipes. Created with React Native, Redux, and AsyncStorage.
